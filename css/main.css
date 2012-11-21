@@ -343,14 +343,16 @@ em.plus{
 	margin-bottom: 30px;
 }
 .event_logo {
-	text-align: center;
+    text-align: right;    
 }
 .event_logo img{
-	width: 100%;
-	max-width: 220px;
-	height: auto;
+    width: 100%;
+    max-width: 220px;
+    height: auto;
 }
-
+.event_name{
+    text-align: left;
+}
 .share{
 	width: 400px;
 	margin: 0 auto 60px auto;
