@@ -10,7 +10,7 @@ Lo Zend Framework|Day e' l'evento di riferimento su Zend Framework che introduce
 
 L'evento si terrà a Milano il 1 Febbraio 2013
 
-Tutte le informazioni sono disponibili sul sito [ZFDay.it](http://www.zfdayday.it)
+Tutte le informazioni sono disponibili sul sito [ZFDay.it](http://www.zfday.it)
 
 ---
 
