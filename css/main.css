@@ -673,6 +673,7 @@ a:hover.slides{
 .sponsors .banner img{
 	width: 100%;
 	height: auto;
+    max-height: 88px;
 }
 
 .sponsors h4 {
